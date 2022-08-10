@@ -4,6 +4,6 @@ This is a webapge built from HTML and CSS for a company named "Horiseon." This p
 show what you can do with just a basic understanding of some of the core elements of front end design. The nav bar's hyperlinks respond to their respective areas in the section tag of the HTML. All of the styling aspects of the page can be found in the CSS code, along with some light descriptions of where things are.
 
 
-[Link to screenshot-one](/Develop/assets/images/screenshot-one.png)
-[Link to screenshot-two](/Develop/assets/images/screenshot-two.png)
+![Link to screenshot-one](./assets/images/screenshot-one.png)
+![Link to screenshot-two](./assets/images/screenshot-two.png)
 
